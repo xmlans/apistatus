@@ -6,7 +6,7 @@ secrets:
 
 sites:
   - name: Official MiniMax API
-    slug: minimax-m3
+    slug: Minimax
     url: https://api.xmyun.org/v1/chat/completions
     method: POST
     headers:
@@ -30,7 +30,7 @@ sites:
     maxResponseTime: 20000
 
   - name: Official DeepSeek API
-    slug: model-2
+    slug: DeepSeek
     url: https://api.xmyun.org/v1/chat/completions
     method: POST
     headers:
@@ -54,7 +54,7 @@ sites:
     maxResponseTime: 20000
 
   - name: Third Party Minimax
-    slug: model-3
+    slug: Minimax-Third
     url: https://api.xmyun.org/v1/chat/completions
     method: POST
     headers:
@@ -82,7 +82,7 @@ status-website:
 
   name: Star Dream AI Status
   introTitle: "**Star Dream AI** 服务状态"
-  introMessage: 在此可查看 API 可用性
+  introMessage: 在此可查看 API 可用性，北京时间22时至次日2时为高峰时段，API回复可能较慢或无法回复，请尽量在其他时间使用我们的服务！
 
   navbar:
     - title: Status
