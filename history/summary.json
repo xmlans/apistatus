@@ -4,19 +4,19 @@
     "url": "https://api.xmyun.org/v1/chat/completions",
     "icon": "https://icons.duckduckgo.com/ip3/api.xmyun.org.ico",
     "slug": "Minimax",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 1085,
-    "timeDay": 687,
-    "timeWeek": 1085,
-    "timeMonth": 1085,
-    "timeYear": 1085,
+    "status": "up",
+    "uptime": "84.23%",
+    "uptimeDay": "60.27%",
+    "uptimeWeek": "84.23%",
+    "uptimeMonth": "84.23%",
+    "uptimeYear": "84.23%",
+    "time": 1548,
+    "timeDay": 1591,
+    "timeWeek": 1548,
+    "timeMonth": 1548,
+    "timeYear": 1548,
     "dailyMinutesDown": {
-      "2026-09-22": 1
+      "2026-09-22": 572
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://api.xmyun.org/v1/chat/completions",
     "icon": "https://icons.duckduckgo.com/ip3/api.xmyun.org.ico",
     "slug": "DeepSeek",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 2968,
-    "timeDay": 2159,
-    "timeWeek": 2968,
-    "timeMonth": 2968,
-    "timeYear": 2968,
+    "status": "up",
+    "uptime": "84.24%",
+    "uptimeDay": "60.28%",
+    "uptimeWeek": "84.24%",
+    "uptimeMonth": "84.24%",
+    "uptimeYear": "84.24%",
+    "time": 2975,
+    "timeDay": 2440,
+    "timeWeek": 2975,
+    "timeMonth": 2975,
+    "timeYear": 2975,
     "dailyMinutesDown": {
-      "2026-09-22": 0
+      "2026-09-22": 572
     }
   },
   {
@@ -44,17 +44,19 @@
     "url": "https://api.xmyun.org/v1/chat/completions",
     "icon": "https://icons.duckduckgo.com/ip3/api.xmyun.org.ico",
     "slug": "Minimax-Third",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 930,
-    "timeDay": 723,
-    "timeWeek": 930,
-    "timeMonth": 930,
-    "timeYear": 930,
-    "dailyMinutesDown": {}
+    "status": "up",
+    "uptime": "84.24%",
+    "uptimeDay": "60.29%",
+    "uptimeWeek": "84.24%",
+    "uptimeMonth": "84.24%",
+    "uptimeYear": "84.24%",
+    "time": 1032,
+    "timeDay": 962,
+    "timeWeek": 1032,
+    "timeMonth": 1032,
+    "timeYear": 1032,
+    "dailyMinutesDown": {
+      "2026-09-22": 572
+    }
   }
 ]
