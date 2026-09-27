@@ -1,7 +1,7 @@
 url: https://api.xmyun.org/v1/chat/completions
-status: down
-code: 503
-responseTime: 44
-lastUpdated: 2026-09-27T01:44:31.071Z
+status: up
+code: 200
+responseTime: 5498
+lastUpdated: 2026-09-27T07:08:56.196Z
 startTime: 2026-09-20T03:15:11.848Z
 generator: Upptime <https://github.com/upptime/upptime>
