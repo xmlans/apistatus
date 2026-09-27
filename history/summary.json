@@ -5,21 +5,21 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.xmyun.org.ico",
     "slug": "Minimax",
     "status": "down",
-    "uptime": "71.52%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "71.52%",
-    "uptimeMonth": "71.52%",
-    "uptimeYear": "71.52%",
+    "uptime": "70.43%",
+    "uptimeDay": "89.20%",
+    "uptimeWeek": "70.24%",
+    "uptimeMonth": "70.43%",
+    "uptimeYear": "70.43%",
     "time": 1675,
     "timeDay": 1525,
-    "timeWeek": 1675,
+    "timeWeek": 1670,
     "timeMonth": 1675,
     "timeYear": 1675,
     "dailyMinutesDown": {
       "2026-09-22": 572,
       "2026-09-24": 1146,
       "2026-09-23": 1126,
-      "2026-09-27": 1
+      "2026-09-27": 156
     }
   },
   {
@@ -28,21 +28,21 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.xmyun.org.ico",
     "slug": "DeepSeek",
     "status": "down",
-    "uptime": "71.53%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "71.53%",
-    "uptimeMonth": "71.53%",
-    "uptimeYear": "71.53%",
+    "uptime": "70.43%",
+    "uptimeDay": "89.21%",
+    "uptimeWeek": "70.25%",
+    "uptimeMonth": "70.43%",
+    "uptimeYear": "70.43%",
     "time": 1784,
     "timeDay": 775,
-    "timeWeek": 1784,
+    "timeWeek": 1746,
     "timeMonth": 1784,
     "timeYear": 1784,
     "dailyMinutesDown": {
       "2026-09-22": 572,
       "2026-09-24": 1146,
       "2026-09-23": 1126,
-      "2026-09-27": 0
+      "2026-09-27": 155
     }
   },
   {
@@ -51,20 +51,21 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.xmyun.org.ico",
     "slug": "Minimax-Third",
     "status": "down",
-    "uptime": "71.53%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "71.53%",
-    "uptimeMonth": "71.53%",
-    "uptimeYear": "71.53%",
+    "uptime": "70.44%",
+    "uptimeDay": "89.23%",
+    "uptimeWeek": "70.25%",
+    "uptimeMonth": "70.44%",
+    "uptimeYear": "70.44%",
     "time": 919,
     "timeDay": 780,
-    "timeWeek": 919,
+    "timeWeek": 895,
     "timeMonth": 919,
     "timeYear": 919,
     "dailyMinutesDown": {
       "2026-09-22": 572,
       "2026-09-24": 1146,
-      "2026-09-23": 1125
+      "2026-09-23": 1125,
+      "2026-09-27": 155
     }
   }
 ]
